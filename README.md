@@ -10,7 +10,15 @@ The Formula One Race Data[1] used for this project was sourced through Kaggle. T
 ## Conclusion
 
 ## Resources
-[1] https://www.kaggle.com/datasets/jtrotman/formula-1-race-data?select=circuits.csv
-[2] Can be found in "Results_4.csv"
+<ol>
+  <li>
+    [1] https://www.kaggle.com/datasets/jtrotman/formula-1-race-data?select=circuits.csv
+  </li>
+  <li>
+    [2] Can be found in "Results_4.csv"
+  </li>
+</ol>
+
+
 
 ## Acknowledgements
