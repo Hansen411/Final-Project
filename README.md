@@ -8,7 +8,7 @@ Formula One is considered the highest class of international open-wheel single-s
 The Formula One Race Data[1] used for this project was sourced through Kaggle. The dataset contains 14 different tables with data ranging from seasons beginning in 1950 to 2025. This data does not contain the current (2026) season and therefore does not reflect the addition of an 11th team or the additional 2 drivers. With the use of Microsoft Access, I combined 5 of the available tables (Results, Drivers, Race Status, Races, Lap Times) to create a consolidated table of 27,304 records [2]. Instances of a race status outside of “Finished” were not removed, as the main observation of this project is the overall race career results, and a race status of “retired” or “DNF (Did Not Finish)” still contributes to a driver’s overall career performance.
 
 ## Conclusion
-
+As we approach the year 2025, we see an increase in node size indication that the general performance of drivers is increasing. This is likely an indication of increased talent, but also an increase in machinery capabilities. This is a sport that is heavily dependent on technology, so it makes sense that there would be an increase in performance along with an increase in machinery.
 ## Resources
 <ul>
   <li>
