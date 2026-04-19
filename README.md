@@ -15,7 +15,7 @@ As we approach the year 2025, we see an increase in node size indication that th
     [1] https://www.kaggle.com/datasets/jtrotman/formula-1-race-data?select=circuits.csv
   </li>
   <li>
-    [2] Can be found in "Results_4.xlxs"
+    [2] Can be found in ([Results_4]https://github.com/Hansen411/Final-Project/blob/main/Results_4.xlsx)
   </li>
 </ul>
 
